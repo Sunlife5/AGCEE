@@ -1,0 +1,12 @@
+I-Object	1
+B-Participant	2
+I-Location	3
+I-Denoter	4
+O	5
+I-Time	6
+B-Denoter	7
+B-Time	8
+B-Object	9
+I-Participant	10
+B-Location	11
+<PAD>	0
